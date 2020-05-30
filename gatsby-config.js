@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `My very own Psych Paper Inventory`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`
+      name: `Elena C. Altmann`,
+      summary: `who is currently living in Amsterdam after finishing her M.Sc in Psychology at the University of Amsterdam.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `I am currently reading numerous papers to prepare for my PhD position starting in Lancaster this October, so I thought, why not upload the little summaries and commentaries I have to each article here where I can always access them. Maybe someone else find them helpful, too!`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`
+      twitter: `ElenaAltmann`
     }
   },
   plugins: [
