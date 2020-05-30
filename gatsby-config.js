@@ -8,7 +8,8 @@ module.exports = {
     description: `I am currently reading numerous papers to prepare for my PhD position starting in Lancaster this October, so I thought, why not upload the little summaries and commentaries I have to each article here where I can always access them. Maybe someone else find them helpful, too!`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `ElenaAltmann`
+      twitter: `ElenaAltmann`,
+      github: `ElenaAltmann`
     }
   },
   plugins: [
